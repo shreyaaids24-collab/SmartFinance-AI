@@ -1,0 +1,38 @@
+# Local environments
+.venv/
+venv/
+env/
+
+# Credentials and local Streamlit secrets
+.env
+.env.*
+!.env.example
+.streamlit/secrets.toml
+
+# Python and test caches
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.cache/
+
+# Local databases, vector stores, and generated uploads
+data/chroma/
+uploads/
+tmp/
+temp/
+*.db
+*.sqlite
+*.sqlite3
+
+# Bank statement exports: allow only the bundled, synthetic samples
+*.csv
+*.pdf
+!/data/sample_transactions.csv
+!/data/sample_statement.pdf
+
+# Generated archives and OS files
+*.zip
+.DS_Store
+Thumbs.db

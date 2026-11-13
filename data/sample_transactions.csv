@@ -1,0 +1,21 @@
+date,description,amount,debit,credit,category,transaction_type
+2024-09-01,Salary Deposit,35000,0,35000,Salary,income
+2024-09-02,Amazon Purchase,2390,2390,0,Shopping,expense
+2024-09-03,Zomato Dinner,780,780,0,Food,expense
+2024-09-05,Uber Ride,430,430,0,Transport,expense
+2024-09-07,Electricity Bill,1800,1800,0,Bills,expense
+2024-09-08,Netflix Subscription,499,499,0,Entertainment,expense
+2024-09-10,Pharmacy,640,640,0,Healthcare,expense
+2024-09-12,Transfer to Savings,5000,5000,0,Transfers,expense
+2024-09-15,Mutual Fund SIP,2500,2500,0,Investments,expense
+2024-09-18,Office Lunch,540,540,0,Food,expense
+2024-09-20,Salary Deposit,35000,0,35000,Salary,income
+2024-10-01,Salary Deposit,35000,0,35000,Salary,income
+2024-10-02,Amazon Purchase,2800,2800,0,Shopping,expense
+2024-10-03,Swiggy Order,920,920,0,Food,expense
+2024-10-04,Metro Card Recharge,350,350,0,Transport,expense
+2024-10-06,Internet Bill,699,699,0,Bills,expense
+2024-10-09,Doctor Consultation,1500,1500,0,Healthcare,expense
+2024-10-12,UPI Transfer,3000,3000,0,Transfers,expense
+2024-10-15,Course Fee,3200,3200,0,Education,expense
+2024-10-20,Freelance Income,6500,0,6500,Salary,income
